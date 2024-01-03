@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi! My name is Harshit 
 ---
 
-About me
-Hi! My name is Harshit ,  I’m an Artificial Intelligence enthusiast, researcher and developer.
+I’m an Artificial Intelligence enthusiast, researcher and developer.
 
 I am a undergrade student currently pursuing my Electrical Engineering degree  from National Institute of Technology, Kurukshetra, India (Institute of National importance) .
 Currently I’m a Research Trainee at CSIR-CSIO ( Council of Scientific & Industrial Research-Central Scientific Instruments Organization) working with Dr. Ritesh Kumar (Principal Scientist at CSIR-CSIO).
