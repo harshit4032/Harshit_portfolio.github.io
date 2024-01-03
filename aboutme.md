@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Hi! My name is Harshit 
+subtitle: Hi! Let me introduce myself, I am Harshit
 ---
 
 I’m an Artificial Intelligence enthusiast, researcher and developer.
